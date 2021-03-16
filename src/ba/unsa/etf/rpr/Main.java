@@ -4,6 +4,6 @@ package ba.unsa.etf.rpr;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Ide ide patak");
+        System.out.println("Ide ide patak na daleki put");
     }
 }
